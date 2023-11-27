@@ -1,1 +1,1 @@
-# Indie-Game-Stop-Web-project
+# Indie-Game-Shop-Web-project
